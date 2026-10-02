@@ -4,7 +4,7 @@ A simple ROS1 project demonstrating **Publisher and Subscriber communication** u
 
 ## 🎥 Demo
 
-![ROS Simple Publisher Subscriber Demo](demo.gif)
+![ROS Simple Publisher Subscriber Demo](pub_sub.gif)
 
 ## 📌 Project Overview
 
