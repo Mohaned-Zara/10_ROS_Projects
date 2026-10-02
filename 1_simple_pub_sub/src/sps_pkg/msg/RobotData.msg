@@ -1,0 +1,3 @@
+string name
+float32 battery_level
+int32 serial_num

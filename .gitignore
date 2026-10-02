@@ -1,0 +1,14 @@
+# ROS / Catkin
+**/build/
+**/devel/
+**/install/
+
+# Python
+**/__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# ROS logs
+*.log
