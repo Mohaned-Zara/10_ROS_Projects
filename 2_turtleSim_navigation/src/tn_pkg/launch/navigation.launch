@@ -1,0 +1,11 @@
+<launch>
+    <node name="TurtleSim" pkg="turtlesim" type="turtlesim_node"/>
+
+    <node name="turtle_navigation" pkg="tn_pkg" type="turtle_navigation" output="screen">
+        <param name="goal_x" value="10"/>
+        <param name="goal_y" value="10"/>
+    </node>
+
+
+
+</launch>
