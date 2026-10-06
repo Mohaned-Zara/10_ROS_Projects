@@ -174,7 +174,7 @@ Example:
 ```xml
 <launch>
 
-    <node name="myturtle1"
+    <node name="TurtuleSim"
           pkg="turtlesim"
           type="turtlesim_node"/>
 
@@ -223,7 +223,6 @@ std_srvs
 From the workspace directory:
 
 ```bash
-cd ~/Desktop/10_ROS_PROJECT/2_turtleSim_navigation
 catkin_make
 source devel/setup.bash
 ```
