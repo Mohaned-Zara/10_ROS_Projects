@@ -14,6 +14,16 @@ This project demonstrates a simple navigation system using two turtles in Turtle
 
 The project focuses on understanding how different ROS concepts work together in a practical application.
 
+## Project Visualization
+
+### ROS Graph
+
+![ROS Graph](media/rosgraph.png)
+
+### TurtleSim Demo
+
+![TurtleSim Demo](media/turtle_navigation.gif)
+
 ## ROS Architecture
 
 ```text
